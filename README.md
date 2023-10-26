@@ -2,7 +2,7 @@
 
 ## Overview
 
-The quantitative-commodity-analysis is a comprehensive toolkit designed for stock market analysis and prediction. It integrates machine learning models, Monte Carlo simulations, and change-point detection algorithms to offer a multi-faceted approach to financial analytics.
+The program is a comprehensive toolkit designed for stock market analysis and prediction. It integrates machine learning models, Monte Carlo simulations, and change-point detection algorithms to offer a multi-faceted approach to financial analytics.
 
 ## Features
 
