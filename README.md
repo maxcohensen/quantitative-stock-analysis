@@ -1,8 +1,8 @@
-# Stock-Price-Modeling-Suite
+# quantitative-commodity-analysis
 
 ## Overview
 
-The Stock-Price-Modeling-Suite is a comprehensive toolkit designed for stock market analysis and prediction. It integrates machine learning models, Monte Carlo simulations, and change-point detection algorithms to offer a multi-faceted approach to financial analytics.
+The quantitative-commodity-analysis is a comprehensive toolkit designed for stock market analysis and prediction. It integrates machine learning models, Monte Carlo simulations, and change-point detection algorithms to offer a multi-faceted approach to financial analytics.
 
 ## Features
 
