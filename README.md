@@ -1,4 +1,4 @@
-# quantitative-commodity-analysis
+# quantitative-stock-analysis
 
 ## Overview
 
